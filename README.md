@@ -1,4 +1,4 @@
-# mp3ArticleGalley For 
+# mp3ArticleGalley For Open Journal Systems 3.2.1.1
 This plugin provides rendering support for MP3 Article Galleys.
 This plugin is based on the HTML plugin with some modifications
 
